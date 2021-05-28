@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="testng" group-by-instances="true">
+    <test name="TestScripts">
+        <classes>
+            <class name="TestScripts.TS01_ValidateLinks"/>
+            <class name="TestScripts.TS02_ValidateSpaceAttributes"/>
+            <class name="TestScripts.TS03_StatusCode"/>
+        </classes>
+    </test>
+</suite>

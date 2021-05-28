@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestScripts.TS01_ValidateLinks" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-28T08:26:30" hostname="f8ffc2597ccd" time="2.826">
+  <properties/>
+  <testcase name="validateFairingsResponse" classname="TestScripts.TS01_ValidateLinks" time="2.826"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

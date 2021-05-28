@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestScripts.TS02_ValidateSpaceAttributes" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-28T08:26:33" hostname="f8ffc2597ccd" time="1.147">
+  <properties/>
+  <testcase name="validateSpaceResponse" classname="TestScripts.TS02_ValidateSpaceAttributes" time="1.147"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
